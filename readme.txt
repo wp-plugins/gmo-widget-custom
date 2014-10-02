@@ -1,9 +1,11 @@
 === Plugin Name ===
 
 Plugin Name: GMO Widget Custom
+Plugin URI: 
 Author: WP Shop byGMO
 Author URI: http://www.wpshop.com
-Contributors: WP Shop byGMO
+Contributors: Takeaki Nagashima
+Donation Link: 
 Tags: Widget
 Requires at least: 3.8
 Tested up to: 4.0 
