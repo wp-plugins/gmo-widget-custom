@@ -15,15 +15,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-The ability to set the insertion & margin an image file on the Widget.
+This is a useful widget customizer plugin which enables you to insert images, ad and recommendation banners.
 
 
 == Installation ==
 
-Search and download plugin from either WordPress admin page or http://wordpress.org/plugins.  
-From the WordPress admin page, simply activate the plugin, or upload a file from "Add New" to install and activate plug-in.  
+Install and activate a plugin.  Go to Appearance > Widgets and drag and drop a widget to the desired area.
+Image size will not exceed the width of the widget area. 
+
+
+Time required for installation: Approximately 15 seconds.
+
 
 == Frequently Asked Questions ==
+
+How do I change images? 
+-Delete existing image then insert a new one.
+
 
 == Changelog == 
 
