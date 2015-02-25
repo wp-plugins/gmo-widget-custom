@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: GMO Widget Custom
-Plugin URI: http://wpshop.com
+Plugin URI: https://wpcloud.jp/en/themes
 Description: The ability to set the insertion & margin an image file on the Widget.
 
-Version: 1.0
-Author: WP Shop byGMO
-Author URI: http://wpshop.com
+Version: 1.1
+Author: GMO WP Cloud
+Author URI: https://www.wpcloud.jp/en/
 Text Domain: gmo-widget-custom
 Domain Path: /languages/
 */
